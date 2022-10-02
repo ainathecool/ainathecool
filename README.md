@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi , I'm Aleena Fatima Khalid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Developer;GDSC+WiT+Content+Head;Junior+at+FAST-NUCES;Learning+Full+Stack+Development+By+Angela+U;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;GDSC+WiT+Content+Head;Junior+at+FAST-NUCES;Learning+Full+Stack+Development;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 - :school: I am a `Junior` at the National University of Computer and Emerging Sciences (FAST-NUCES)
 - 🔭 `Content Head` at `Women in Tech Department` at `Google Developer Student Club .
-- :technologist: I love using Software as a solution for every `Problem`..
+- :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`
 
 ## 📊🔥 GitHub Stats
@@ -62,11 +62,19 @@ Here are some ideas to get you started:
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
+   &emsp;
+  <a href="https://www.w3schools.com/C#/" target="_blank"> 
+    <img alt="C#" src="https://img.shields.io/badge/C%23-%20-yellowgreen?style=plastic&logo=c%2B%2B&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://www.w3schools.com/MERN Stack/" target="_blank"> 
+    <img alt="MERN" src="https://img.shields.io/badge/MERN-%20-blueviolet?">
+  </a> 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%20-critical?style=for-the-badge&logo=java&logoColor=%23F7DF1E">
   </a>
-</p>
+</p> 
 
 ### 👉 IDEs
  
@@ -110,6 +118,6 @@ Here are some ideas to get you started:
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/ainathecool/ainathecool/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+	<img src = "https://github.com/redhawk5200/redhawk5200/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
 
