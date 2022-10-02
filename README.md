@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Programming languages and Tools
 
 <p align="center"> 
   &emsp; 
@@ -63,24 +63,42 @@ Here are some ideas to get you started:
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
    &emsp;
-  <a href="https://www.w3schools.com/C#/" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/C%23-%20-yellowgreen?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
+   <a href="https://github.com/search?q=user%3Aainathecool+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
    &emsp;
-  <a href="https://www.w3schools.com/MERN Stack/" target="_blank"> 
-    <img alt="MERN" src="https://img.shields.io/badge/MERN-%20-blueviolet?">
-  </a> 
+ <a href="https://github.com/search?q=user%3Aainathecool+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+   &emsp;
+ <a href="https://github.com/search?q=user%3Aainathecool+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%20-critical?style=for-the-badge&logo=java&logoColor=%23F7DF1E">
-  </a>
+  <a href="https://github.com/search?q=user%3Aainathecool+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
+  &emsp;
+   <a href="https://github.com/search?q=user%3Aainathecool+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+   &emsp;
+       <a href="https://github.com/search?q=user%3Aainathecool+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+       &emsp;
+       <a href="https://github.com/search?q=user%3Aainathecool+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 </p> 
 
-### 👉 IDEs
+### 🧰 Frameworks and libraries
+<p align="center"> 
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+</p> 
+
+### 🗄️ Databases
+<p align="center"> 
+ <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+ <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+</p> 
+
+### 💻 Software Tools and IDEs
  
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
 </p>
 
  ### 👉 Problem Solving
