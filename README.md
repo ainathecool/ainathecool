@@ -118,6 +118,6 @@ Here are some ideas to get you started:
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/redhawk5200/redhawk5200/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+	<img src = "https://github.com/ainathecool/ainathecool/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
 
