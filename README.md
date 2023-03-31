@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi , I'm Aleena Fatima Khalid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;GDSC+WiT+Content+Head;Junior+at+FAST-NUCES;Learning+Full+Stack+Development;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Game+Development+Fellow+at+Bytewise+Limited;GDSC+WiT+Content+Head;Junior+at+FAST-NUCES;Learning+Full+Stack+Development;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <br>
 
 - :school: I am a `Junior` at the National University of Computer and Emerging Sciences (FAST-NUCES)
+- :book: A part of Bytewise Limited Game Fellowship, in the Game Development Track.
 - 🔭 `Content Head` at `Women in Tech Department` at `Google Developer Student Club .
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`
